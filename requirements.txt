@@ -2,3 +2,4 @@ streamlit
 yfinance
 akshare
 pandas
+pandas-datareader
